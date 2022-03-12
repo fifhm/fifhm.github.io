@@ -1147,41 +1147,6 @@ a {
   font-size: 2rem;
   width: 1.6rem;
 }
-.cid-sZdoZBQOHg {
-  padding-top: 5rem;
-  padding-bottom: 5rem;
-  background-color: #f5f5f5;
-}
-.cid-sZdoZBQOHg .img-wrapper {
-  text-align: center;
-}
-.cid-sZdoZBQOHg img {
-  margin: auto;
-  width: 140px;
-  padding-bottom: 2rem;
-}
-.cid-sZdoZBQOHg .row {
-  align-items: flex-start;
-}
-.cid-sZdoZBQOHg .card-wrapper {
-  border-radius: 4px;
-  background: #f5f5f5;
-}
-@media (max-width: 992px) {
-  .cid-sZdoZBQOHg .card-wrapper {
-    margin-bottom: 2rem;
-  }
-}
-@media (min-width: 768px) {
-  .cid-sZdoZBQOHg .card-wrapper {
-    padding: 2rem;
-  }
-}
-@media (max-width: 767px) {
-  .cid-sZdoZBQOHg .card-wrapper {
-    padding: 1rem;
-  }
-}
 .cid-sZdp6B6vPJ {
   padding-top: 5rem;
   padding-bottom: 5rem;
